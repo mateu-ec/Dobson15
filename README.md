@@ -1,4 +1,5 @@
 # Dobson15
-Equipo Telescopio Dobson 15"
 
-Colaborador: Ernesto Nicola
+Web de Mateu Esteban
+
+Equipo Telescopio Dobson 15"

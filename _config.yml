@@ -1,11 +1,3 @@
-#plugins:
-#  - jekyll-remote-theme
-#remote_theme: zivhub/monophase@main
-remote_theme: pages-themes/primer
-#remote_theme: eecs485staff/primer-spec
-#remote_theme: riggraz/no-style-please
-title: Telescopio Dobson Obsession 15"
-#description: A short description of your site's purpose
-#name: Mateu Esteban
-#github:
-#  private: true
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false

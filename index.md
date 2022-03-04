@@ -32,7 +32,7 @@
   * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de www.astrocrumb.com). No incluye los filtros.
   * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
   * Fundas blancas de alta protección para los componentes del telescopio (de AstroSystems Inc.). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
-  * Conjunto de colimadores en maletín acolchado, consistente en
+  * Conjunto de colimadores en maletín acolchado, ver detalles [aquí](colimadores.md)
   * Manuales de usuario de los equipos
   * ServoCAT Track 
     * (www.stellarcat.com) 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.

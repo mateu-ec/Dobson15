@@ -24,9 +24,9 @@
   * Contrapesos para la parte posterior. Originales
   * Ventilador a 12 V, incorporado para el espejo primario. Original
   * Caja de conexiones en el balancín (parte inferior). Adaptación Mateu
-  * Enfocador Feathertouch, de Starlight Instruments. Gran calidad y capacidad.
+  * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/). Gran calidad y capacidad.
   * Buscadores incluidos:
-    * Telrad clásico
+    * [Telrad clásico](https://www.astroshop.es/visor-de-punto-rojo-y-de-proyeccion/telrad-buscador-de-proyeccion-de-con-base/p,5974)
     * Buscador acodado 90º, 9x50
     * Puntero láser con interruptor externo
   * Columna de soporte DSC Stalk, de Markless Astronomics)
@@ -39,7 +39,7 @@
   * Conjunto de colimadores en maletín acolchado, ver detalles [aquí](colimadores.md)
   * Manuales de usuario de los equipos
   * ServoCAT Track 
-    * (www.stellarcat.com) 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
+    * <https://www.stellarcat.com> 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
     * Auténtica búsqueda en espiral
     * Closed loop system with encoder feedback
     * 6 velocidades, hasta +5º/segundo

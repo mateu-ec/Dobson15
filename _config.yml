@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 github:
   is_project_page: false
 title: Telescopio Obsession 15"

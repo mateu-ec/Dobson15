@@ -1,5 +1,8 @@
-# Equipo Telescopio tipo Dobson: Obsession 15” f/4,5 Classic
+# Venta Telescopio Dobson: Obsession 15” f/4,5 Classic
 
+* Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
+
+## Telescopio
 * Comprado directamente al fabricante a finales de 2007 (David Kriege: <https://www.obsessiontelescopes.com>). Unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez.
 * El equipo se halla en perfecto estado, prácticamente como nuevo gracias a un cuidado y mantenimiento riguroso.
 * Espejo primario 15” (38,1 cm de diámetro) de altísima calidad Pyrex 7740 de sílice fundido con recocido de precisión de United Lens; fabricado por Optical Mechanics Inc. (James Mulherin), 96% de reflectividad mejorada del revestimiento de aluminio. Grosor de 5,08 cm, muy baja expansión. Longitud focal: 1.727 mm
@@ -12,6 +15,7 @@
 * Peso de la caja con el espejo: 27 kg. Peso efectivo con la carretilla: 4kg.
 * Seguimiento y GoTo de alta precisión con ServoCAT Track y ArgoNavis DTC instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía.
 
+## Accesorios incluidos
 * Además, el equipo incluye otros accesorios:
   * Carretilla de transporte desmontable. Original de fábrica.
   * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
@@ -29,7 +33,7 @@
   * Caja de conexiones DewBuster para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
   * Deshumificador instalado en el secundario (Dew Guard, de AstroSystems) con sensor de temperatura, LED y conexiones para deshumificador (de AstroSystems Inc.). Original de fábrica.
   * Araña y soporte de secundario de AstroSystems Inc. Original.
-  * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de www.astrocrumb.com). No incluye los filtros.
+  * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
   * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
   * Fundas blancas de alta protección para los componentes del telescopio (de AstroSystems Inc.). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
   * Conjunto de colimadores en maletín acolchado, ver detalles [aquí](colimadores.md)
@@ -49,6 +53,4 @@
 
   * GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000 objetos y 1.100 objetos de usuario
     * Dual CPU Motorola 5206e ColdFire 40MHz 32 bit y PIC 16C505 4 MHz 8-bit microcontrolador
-    * Información adicional en http://www.wildcard-innovations.com.au/
-
-* Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
+    * Información adicional en <http://www.wildcard-innovations.com.au/>

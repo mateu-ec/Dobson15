@@ -45,7 +45,7 @@
   * Conjunto de colimadores en maletín acolchado, ver detalles [aquí](colimadores.md)
   * Manuales de usuario de los equipos
   
-  ### ServoCAT Track
+### ServoCAT Track
   
 * ServoCAT Track <https://www.stellarcat.com> 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
     * Auténtica búsqueda en espiral

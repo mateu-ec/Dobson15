@@ -13,42 +13,42 @@
 * Seguimiento y GoTo de alta precisión con ServoCAT Track y ArgoNavis DTC instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía.
 
 * Además, el equipo incluye otros accesorios:
-    * Carretilla de transporte desmontable. Original de fábrica.
-    * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
-    * Mesita para accesorios ajustada a las barras de la carretilla. Adaptación Mateu
-    * Bandeja frontal para accesorios y contrapeso en caso necesario. Adaptación Mateu
-    * Contrapesos para la parte posterior. Originales
-    * Ventilador a 12 V, incorporado para el espejo primario. Original
-    * Caja de conexiones en el balancín (parte inferior). Adaptación Mateu
-    * Enfocador Feathertouch, de Starlight Instruments. Gran calidad y capacidad.
+  * Carretilla de transporte desmontable. Original de fábrica.
+  * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
+  * Mesita para accesorios ajustada a las barras de la carretilla. Adaptación Mateu
+  * Bandeja frontal para accesorios y contrapeso en caso necesario. Adaptación Mateu
+  * Contrapesos para la parte posterior. Originales
+  * Ventilador a 12 V, incorporado para el espejo primario. Original
+  * Caja de conexiones en el balancín (parte inferior). Adaptación Mateu
+  * Enfocador Feathertouch, de Starlight Instruments. Gran calidad y capacidad.
+  * Buscadores incluidos:
     * Telrad clásico
     * Buscador acodado 90º, 9x50
     * Puntero láser con interruptor externo
-    * Columna de soporte DSC Stalk, de Markless Astronomics)
-    * Caja de conexiones DewBuster para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
-    * Deshumificador instalado en el secundario (Dew Guard, de AstroSystems) con sensor de temperatura, LED y conexiones para deshumificador (de AstroSystems Inc.). Original de fábrica.
-    * Araña y soporte de secundario de AstroSystems Inc. Original.
-    * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de www.astrocrumb.com). No incluye los filtros.
-    * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
-    * Fundas blancas de alta protección para los componentes del telescopio (de AstroSystems Inc.). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
-    * Conjunto de colimadores en maletín acolchado, consistente en
-    * Manuales de usuario de los equipos
-    * ServoCAT Track (www.stellarcat.com) 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
+  * Columna de soporte DSC Stalk, de Markless Astronomics)
+  * Caja de conexiones DewBuster para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
+  * Deshumificador instalado en el secundario (Dew Guard, de AstroSystems) con sensor de temperatura, LED y conexiones para deshumificador (de AstroSystems Inc.). Original de fábrica.
+  * Araña y soporte de secundario de AstroSystems Inc. Original.
+  * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de www.astrocrumb.com). No incluye los filtros.
+  * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
+  * Fundas blancas de alta protección para los componentes del telescopio (de AstroSystems Inc.). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
+  * Conjunto de colimadores en maletín acolchado, consistente en
+  * Manuales de usuario de los equipos
+  * ServoCAT Track 
+    * (www.stellarcat.com) 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
     * Auténtica búsqueda en espiral
     * Closed loop system with encoder feedback
     * 6 velocidades, hasta +5º/segundo
     * Conexión con programas planetarios
-No requiere un PC necesariamente
-Controlador de mano cableado e inalámbrico, con tres velocidades
-Corrección de errores
-Compensación back-lash
-Catálogos adicionales y actualizables
-Upgrades y actualizaciones gratuitas
+    * No requiere un PC necesariamente
+    * Controlador de mano cableado e inalámbrico, con tres velocidades
+    * Corrección de errores
+    * Compensación back-lash
+    * Catálogos adicionales y actualizables
+    * Upgrades y actualizaciones gratuitas
 
-GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000
-objetos y 1.100 objetos de usuario
-Dual CPU Motorola 5206e ColdFire 40MHz 32 bit y PIC 16C505 4 MHz 8-bit microcontrolador
+  * GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000 objetos y 1.100 objetos de usuario
+    * Dual CPU Motorola 5206e ColdFire 40MHz 32 bit y PIC 16C505 4 MHz 8-bit microcontrolador
+    * Información adicional en http://www.wildcard-innovations.com.au/
 
-Información adicional en http://www.wildcard-innovations.com.au/
-
-Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
+* Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€

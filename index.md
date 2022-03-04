@@ -47,7 +47,7 @@
   
   ### ServoCAT Track
   
-  * ServoCAT Track <https://www.stellarcat.com> 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
+* ServoCAT Track <https://www.stellarcat.com> 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
     * Auténtica búsqueda en espiral
     * Closed loop system with encoder feedback
     * 6 velocidades, hasta +5º/segundo

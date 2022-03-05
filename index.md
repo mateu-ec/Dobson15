@@ -1,3 +1,7 @@
+---
+layout: spec
+---
+
 # Venta Telescopio Dobson: Obsession 15” f/4,5 Classic
 
 * Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€

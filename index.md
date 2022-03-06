@@ -8,7 +8,7 @@ layout: spec
 
 <img src="IMG/General.jpg" width=800 align=center>
 
-<img src="IMGMatrícula Obsession.jpg" width=800 align=center>
+<img src="IMG/Matrícula Obsession.jpg" width=600 align=center>
 
 
 ## Telescopio
@@ -72,3 +72,10 @@ layout: spec
   * GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000 objetos y 1.100 objetos de usuario
     * Dual CPU Motorola 5206e ColdFire 40MHz 32 bit y PIC 16C505 4 MHz 8-bit microcontrolador
     * Información adicional en <http://www.wildcard-innovations.com.au/>
+
+## Fotos de Detalle
+
+* [Espejos y otros accesorios](espejos-otros-accesorios.md)
+* [Buscadores y Sistema GOTO](buscadores-goto.md)
+* [Colimadores](colimadores.md)
+* [Otras Imágenes](otras-imagenes.md)

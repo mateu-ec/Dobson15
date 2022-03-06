@@ -77,5 +77,5 @@ layout: spec
 
 * [Espejos y otros accesorios](espejos-otros-accesorios.md)
 * [Buscadores y Sistema GOTO](buscadores-goto.md)
-* [Colimadores](colimadores.md)
+* [Colimadores](colimacion.md)
 * [Otras Imágenes](otras-imagenes.md)

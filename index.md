@@ -6,6 +6,11 @@ layout: spec
 
 * Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
 
+<img src="General.jpg" width=800 align=center>
+
+<img src="Matrícula Obsession.jpg" width=800 align=center>
+
+
 ## Telescopio
 
 * Comprado directamente al fabricante a finales de 2007 (David Kriege: <https://www.obsessiontelescopes.com>). Unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez.

@@ -6,9 +6,9 @@ layout: spec
 
 * Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
 
-<img src="General.jpg" width=800 align=center>
+<img src="IMG/General.jpg" width=800 align=center>
 
-<img src="Matrícula Obsession.jpg" width=800 align=center>
+<img src="IMGMatrícula Obsession.jpg" width=800 align=center>
 
 
 ## Telescopio

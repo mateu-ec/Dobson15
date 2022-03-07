@@ -25,7 +25,7 @@ layout: spec
   * Dimensiones de la parte baja: 48x53 cm
   * Peso de la caja con el espejo: 27 kg. Peso efectivo con la carretilla: 4kg.
 
-### Espejo Primario
+### Espejos
 * Espejo primario 15” (38,1 cm de diámetro) de altísima calidad Pyrex 7740 de sílice fundido con recocido de precisión de United Lens; fabricado por Optical Mechanics Inc. (James Mulherin), 96% de reflectividad mejorada del revestimiento de aluminio. Grosor de 5,08 cm, muy baja expansión. Longitud focal: 1.727 mm
 
 * Espejo secundario de 66 mm (United Lens), reflectividad super-mejorada 98% a 550 nm (Brilliant-Diamond) del revestimiento multi-dieléctrico de aluminio. 1/10 de onda o mejor. Ver interferograma aquí.

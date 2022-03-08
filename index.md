@@ -53,7 +53,7 @@ layout: spec
   * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
   * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
   * Conjunto de colimadores Catseye y Howie Glatter, ver detalles [aquí](colimadores.md)
-  * Varios cables de conexión eléstrica
+  * Varios cables de conexión eléctrica
   * Manuales de usuario de los equipos
   
 ### ServoCAT Track

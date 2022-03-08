@@ -20,6 +20,9 @@ layout: spec
 
 * Medidas importantes:
   * Altura del ocular cuando el telescopio apunta al zenit: 167 cm.
+  * Altura total: 186 cm.
+  * Longitud máxima con las barras de la carretilla, incluyendo bandeja frontal: 176 cm.
+  * Anchura máxima, incluyendo las ruedas de la carretilla: 81 cm.
   * Dimensiones de la parte alta (UTA): 48x25 cm. Peso 3,6 kg.
   * Longitud de los tubos de aluminio: unos 114 cm, diámetro de los tubos: 32 mm, grosor del tubo: 0,9 mm
   * Dimensiones de la parte baja: 48x53 cm
@@ -36,8 +39,8 @@ layout: spec
 * Además, el equipo incluye otros accesorios:
   * Carretilla de transporte desmontable. Original de fábrica.
   * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
-  * Mesita para accesorios ajustada a las barras de la carretilla. Adaptación Mateu
-  * Bandeja frontal para accesorios y contrapeso en caso necesario. Adaptación Mateu
+  * Mesita para accesorios ajustada a las barras de la carretilla (63x52 cm). Adaptación Mateu
+  * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). Adaptación Mateu
   * Contrapesos para la parte posterior de la caja del espejo. Originales
   * Ventilador a 12 V, incorporado para el espejo primario. Original
   * Caja de conexiones eléctricas en el balancín (parte inferior). Adaptación Mateu

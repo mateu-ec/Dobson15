@@ -1,5 +1,4 @@
-# Otras mejoras
-
+# Otras imágenes
 Mesita con protector:
 
 <img src="IMG/Mesita con protector.jpg" width=800 align=center>

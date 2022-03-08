@@ -37,7 +37,7 @@ layout: spec
 
 ## Accesorios incluidos
 * Además, el equipo incluye otros accesorios:
-  * Carretilla de transporte desmontable. Original de fábrica.
+  * Carretilla de transporte con dos ruedas, desmontable. Original de fábrica.
   * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
   * Mesita para accesorios ajustada a las barras de la carretilla (63x52 cm). Adaptación Mateu
   * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). Adaptación Mateu

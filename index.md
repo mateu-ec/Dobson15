@@ -4,8 +4,9 @@ layout: spec
 
 # Venta Telescopio Dobson: Obsession 15” f/4,5 Classic
 
-* Precio global del equipo según la lista (no incluye gastos de transporte): 5.000€
-
+* Precio global del equipo según la lista (no incluye gastos de transporte o seguro): 5.400€
+* El telescopio está en la isla de Mallorca
+* Interesados contactar con Mateu: 659 460 730
 <img src="IMG/General.jpg" width=800 align=center>
 
 <img src="IMG/Matrícula Obsession.jpg" width=600 align=center>
@@ -13,9 +14,8 @@ layout: spec
 
 ## Telescopio
 
-* Comprado directamente al fabricante a finales de 2007 (David Kriege: <https://www.obsessiontelescopes.com>). Unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez.
-* El equipo se halla en perfecto estado, prácticamente como nuevo gracias a un cuidado y mantenimiento riguroso.
-* El resultado es 4 veces más brillante y 1,9 veces la resolución de un Schmidt-Cassegrain de 8” (20,32 cm). Magnitud límite: 15,5. Límite Rayleigh: 0,36 segundos de arco. Límite de contraste (diámetro mínimo antes de que una nebulosa desaparece de la vista): 5,7 minutos de arco.
+* Comprado directamente al fabricante en Abril de 2007 (David Kriege: <https://www.obsessiontelescopes.com>). Unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez, formando el conjunto superior, tubos de andamio, caja del espejo y caja balancín.  Además se ha añadido una mesita y una bandeja frontal de madera, que se adaptan a las barras de la carretilla de transporte original. Numerosos accesorios completan este equipo en venta (ver listado).
+* El equipo se halla en perfecto estado, prácticamente como nuevo gracias a un cuidado y mantenimiento riguroso y un uso limitado.
 * Seguimiento y GoTo de alta precisión con ServoCAT Track y ArgoNavis DTC instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía.
 
 * Medidas importantes:
@@ -30,28 +30,30 @@ layout: spec
 
 * Espejo secundario de 66 mm (United Lens), reflectividad super-mejorada 98% a 550 nm (Brilliant-Diamond) del revestimiento multi-dieléctrico de aluminio. 1/10 de onda o mejor. Ver interferograma aquí.
 
+* El resultado es 4 veces más brillante y 1,9 veces la resolución de un Schmidt-Cassegrain de 8” (20,32 cm). Magnitud límite: 15,5. Límite Rayleigh: 0,36 segundos de arco. Límite de contraste (diámetro mínimo antes de que una nebulosa desaparece de la vista): 5,7 minutos de arco.
+
 ## Accesorios incluidos
 * Además, el equipo incluye otros accesorios:
   * Carretilla de transporte desmontable. Original de fábrica.
   * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
   * Mesita para accesorios ajustada a las barras de la carretilla. Adaptación Mateu
   * Bandeja frontal para accesorios y contrapeso en caso necesario. Adaptación Mateu
-  * Contrapesos para la parte posterior. Originales
+  * Contrapesos para la parte posterior de la caja del espejo. Originales
   * Ventilador a 12 V, incorporado para el espejo primario. Original
-  * Caja de conexiones en el balancín (parte inferior). Adaptación Mateu
-  * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/). Gran calidad y capacidad.
+  * Caja de conexiones eléctricas en el balancín (parte inferior). Adaptación Mateu
+  * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
   * Buscadores incluidos:
     * [Telrad clásico](https://www.astroshop.es/visor-de-punto-rojo-y-de-proyeccion/telrad-buscador-de-proyeccion-de-con-base/p,5974)
-    * Buscador acodado 90º, 9x50
-    * Puntero láser con interruptor externo
-  * Columna de soporte DSC Stalk, de Markless Astronomics)
-  * Caja de conexiones DewBuster para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
-  * Deshumificador instalado en el secundario (Dew Guard, de AstroSystems) con sensor de temperatura, LED y conexiones para deshumificador (de AstroSystems Inc.). Original de fábrica.
-  * Araña y soporte de secundario de AstroSystems Inc. Original.
-  * Sistema deslizante de soporte de filtros, con caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
+    * Buscador acodado 90º, 7x50, de Antares
+  * Columna de soporte DSC Stalk para los controlodares de Go-To, de [Markless Astronomics](https://www.marklessastronomics.com/dsc%20stalk%20products.html#dscstalk)
+  * Caja de conexiones [DewBuster](https://www.dewbuster.com/form-order-db.html) para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
+  * Deshumificador instalado en el secundario [Dew Guard](https://www.astrosystems.biz/dewgrd.htm) de AstroSystems, con sensor de temperatura, LED y conexiones para deshumificador. Original de fábrica.
+  * Araña (https://www.astrosystems.biz/spiders.htm) y soporte de secundario (https://www.astrosystems.biz/sechold.htm) de AstroSystems Inc. Original.
+  * Sistema deslizante de soporte de filtros, con cinta calefactora y caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
   * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
-  * Fundas blancas de alta protección para los componentes del telescopio (de AstroSystems Inc.). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
-  * Conjunto de colimadores en maletín acolchado, ver detalles [aquí](colimadores.md)
+  * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
+  * Conjunto de colimadores Catseye y Howie Glatter, ver detalles [aquí](colimadores.md)
+  * Varios cables de conexión eléstrica
   * Manuales de usuario de los equipos
   
 ### ServoCAT Track
@@ -60,13 +62,9 @@ layout: spec
     * Auténtica búsqueda en espiral
     * Closed loop system with encoder feedback
     * 6 velocidades, hasta +5º/segundo
-    * Conexión con programas planetarios
     * No requiere un PC necesariamente
-    * Controlador de mano cableado e inalámbrico, con tres velocidades
-    * Corrección de errores
-    * Compensación back-lash
-    * Catálogos adicionales y actualizables
-    * Upgrades y actualizaciones gratuitas
+    * Corrección de errores y compensación back-lash
+    * Catálogos adicionales y actualizaciones gratuitas
 
 ### ArgoNavis DTC
   * GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000 objetos y 1.100 objetos de usuario

@@ -69,6 +69,7 @@ layout: spec
 ### ArgoNavis DTC
   * GO TO con ArgoNavis DTC (Digital Telescope Computer): círculos graduados digitales +30.000 objetos y 1.100 objetos de usuario
     * Dual CPU Motorola 5206e ColdFire 40MHz 32 bit y PIC 16C505 4 MHz 8-bit microcontrolador
+    * Catálogos adicionales y actualizaciones gratuitas
     * Información adicional en <http://www.wildcard-innovations.com.au/>
 
 ## Fotos de Detalle

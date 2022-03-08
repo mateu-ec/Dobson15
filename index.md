@@ -81,4 +81,4 @@ layout: spec
 * [Espejos y otros accesorios](espejos-otros-accesorios.md)
 * [Buscadores y Sistema GOTO](buscadores-goto.md)
 * [Colimadores](colimacion.md)
-* [Otras mejoras](otras-mejoras.md)
+* [Otras imágenes](otras-imágenes.md)

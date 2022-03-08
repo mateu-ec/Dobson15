@@ -2,9 +2,9 @@
 
 ## Buscadores
 
-Puntero laser:
 
-<img src="IMG/Puntero laser.jpg" width=800 align=center>
+
+
 
 Buscador Antares:
 

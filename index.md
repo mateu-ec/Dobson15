@@ -35,6 +35,7 @@ layout: spec
 
 * El resultado es 4 veces más brillante y 1,9 veces la resolución de un Schmidt-Cassegrain de 8” (20,32 cm). Magnitud límite: 15,5. Límite Rayleigh: 0,36 segundos de arco. Límite de contraste (diámetro mínimo antes de que una nebulosa desaparece de la vista): 5,7 minutos de arco.
 
+* [Fotos de los espejos](espejos-otros-accesorios.md)
 ## Accesorios incluidos
 * Además, el equipo incluye otros accesorios:
   * Carretilla de transporte con dos ruedas, desmontable. Original de fábrica.

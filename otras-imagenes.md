@@ -1,4 +1,4 @@
-# Otras Imágenes
+# Otras mejoras
 
 Mesita con protector:
 

@@ -9,7 +9,7 @@ layout: spec
 * Interesados contactar con Mateu: 659 460 730
 <img src="IMG/General.jpg" width=800 align=center>
 
-<img src="IMG/Matrícula Obsession.jpg" width=600 align=center>
+<img src="IMG/Matrícula Obsession.jpg" width=700 align=center>
 
 
 ## Telescopio

@@ -16,7 +16,7 @@ layout: spec
 
 * Comprado directamente al fabricante en Abril de 2007 (David Kriege: <https://www.obsessiontelescopes.com>). Unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez, formando el conjunto superior, tubos de andamio, caja del espejo y caja balancín.  Además se ha añadido una mesita y una bandeja frontal de madera, que se adaptan a las barras de la carretilla de transporte original. Numerosos accesorios completan este equipo en venta (ver listado).
 * El equipo se halla en perfecto estado, prácticamente como nuevo gracias a un cuidado y mantenimiento riguroso y un uso limitado.
-* Seguimiento y GoTo de alta precisión con ServoCAT Track y ArgoNavis DTC instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía.
+* Seguimiento y GoTo de alta precisión con ServoCAT Track y ArgoNavis DTC instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía. Ver imágenes aquí.
 
 * Medidas importantes:
   * Altura del ocular cuando el telescopio apunta al zenit: 167 cm.
@@ -58,10 +58,12 @@ layout: spec
   * Mesita para accesorios ajustada a las barras de la carretilla (63x52 cm). 
   * Columna de soporte DSC Stalk para los controlodares de Go-To, de [Markless Astronomics](https://www.marklessastronomics.com/dsc%20stalk%20products.html#dscstalk)
   * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). 
-  * Caja de conexiones eléctricas en el balancín (parte inferior). 
+  * Caja de conexiones eléctricas en el balancín (parte inferior).
+  * ver imágenes aquí 
   
 ### Enfocador:
   * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
+  * ve imagen aquí
 
 ### Conjunto de colimadores: 
   * Catseye 
@@ -83,6 +85,7 @@ layout: spec
   * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
   * Varios cables de conexión eléctrica
   * Manuales de usuario de los equipos
+  * Ver imágenes de otros accesorios
   
 ## Fotos de Detalle
 

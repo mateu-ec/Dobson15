@@ -36,32 +36,8 @@ layout: spec
 * El resultado es 4 veces más brillante y 1,9 veces la resolución de un Schmidt-Cassegrain de 8” (20,32 cm). Magnitud límite: 15,5. Límite Rayleigh: 0,36 segundos de arco. Límite de contraste (diámetro mínimo antes de que una nebulosa desaparece de la vista): 5,7 minutos de arco.
 
 * [Fotos de los espejos](espejos-otros-accesorios.md)
-## Accesorios incluidos
-* Además, el equipo incluye otros accesorios:
-  * Carretilla de transporte con dos ruedas, desmontable. Original de fábrica.
-  * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. Adaptación Mateu
-  * Mesita para accesorios ajustada a las barras de la carretilla (63x52 cm). Adaptación Mateu
-  * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). Adaptación Mateu
-  * Contrapesos para la parte posterior de la caja del espejo. Originales
-  * Ventilador a 12 V, incorporado para el espejo primario. Original
-  * Caja de conexiones eléctricas en el balancín (parte inferior). Adaptación Mateu
-  * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
-  * Buscadores incluidos:
-    * [Telrad clásico](https://www.astroshop.es/visor-de-punto-rojo-y-de-proyeccion/telrad-buscador-de-proyeccion-de-con-base/p,5974)
-    * Buscador acodado 90º, 7x50, de Antares
-  * Columna de soporte DSC Stalk para los controlodares de Go-To, de [Markless Astronomics](https://www.marklessastronomics.com/dsc%20stalk%20products.html#dscstalk)
-  * Caja de conexiones [DewBuster](https://www.dewbuster.com/form-order-db.html) para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
-  * Deshumificador instalado en el secundario [Dew Guard](https://www.astrosystems.biz/dewgrd.htm) de AstroSystems, con sensor de temperatura, LED y conexiones para deshumificador. Original de fábrica.
-  * Araña (https://www.astrosystems.biz/spiders.htm) y soporte de secundario (https://www.astrosystems.biz/sechold.htm) de AstroSystems Inc. Original.
-  * Sistema deslizante de soporte de filtros, con cinta calefactora y caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
-  * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
-  * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
-  * Conjunto de colimadores Catseye y Howie Glatter, ver detalles [aquí](colimadores.md)
-  * Varios cables de conexión eléctrica
-  * Manuales de usuario de los equipos
-  
-### ServoCAT Track
-  
+
+### ServoCAT Track  
 * ServoCAT Track <https://www.stellarcat.com> 10.000 pasos, servos potentes de alta precisión, permite seguimiento en largas exposiciones y Go-To.
     * Auténtica búsqueda en espiral
     * Closed loop system with encoder feedback
@@ -76,6 +52,38 @@ layout: spec
     * Catálogos adicionales y actualizaciones gratuitas
     * Información adicional en <http://www.wildcard-innovations.com.au/>
 
+### Conjunto carretilla-mesa:
+  * Carretilla de transporte con dos ruedas, desmontable. Original de fábrica.
+  * Iluminación con bombillas rojas de 3 v en los extremos de las barras de las carretillas. 
+  * Mesita para accesorios ajustada a las barras de la carretilla (63x52 cm). 
+  * Columna de soporte DSC Stalk para los controlodares de Go-To, de [Markless Astronomics](https://www.marklessastronomics.com/dsc%20stalk%20products.html#dscstalk)
+  * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). 
+  * Caja de conexiones eléctricas en el balancín (parte inferior). 
+  
+### Enfocador:
+  * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
+
+### Conjunto de colimadores: 
+  * Catseye 
+  * Howie Glatter 
+  * ver detalles [aquí](colimadores.md)
+  
+### Buscadores incluidos:
+   * [Telrad clásico](https://www.astroshop.es/visor-de-punto-rojo-y-de-proyeccion/telrad-buscador-de-proyeccion-de-con-base/p,5974)
+   * Buscador acodado 90º, 7x50, de Antares
+
+### Otros accesorios incluidos:
+  * Contrapesos para la parte posterior de la caja del espejo. Originales
+  * Ventilador a 12 V, incorporado para el espejo primario. Original
+  * Caja de conexiones [DewBuster](https://www.dewbuster.com/form-order-db.html) para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
+  * Deshumificador instalado en el secundario [Dew Guard](https://www.astrosystems.biz/dewgrd.htm) de AstroSystems, con sensor de temperatura, LED y conexiones para deshumificador. Original de fábrica.
+  * Araña (https://www.astrosystems.biz/spiders.htm) y soporte de secundario (https://www.astrosystems.biz/sechold.htm) de AstroSystems Inc. Original.
+  * Sistema deslizante de soporte de filtros, con cinta calefactora y caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
+  * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
+  * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
+  * Varios cables de conexión eléctrica
+  * Manuales de usuario de los equipos
+  
 ## Fotos de Detalle
 
 * [Espejos y otros accesorios](espejos-otros-accesorios.md)

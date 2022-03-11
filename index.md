@@ -16,7 +16,7 @@ layout: spec
 
 * Comprado directamente al fabricante en Abril de 2007 (David Kriege: <https://www.obsessiontelescopes.com>), con el registro #1299. El telescopio consiste en unidades de madera (ApplePly) y tubos de aluminio ajustados artesanalmente para máxima estabilidad y rigidez, formando el conjunto superior, tubos de andamio, caja del espejo y caja balancín.  Además se ha añadido una mesita y una bandeja frontal de madera, que se adaptan a las barras de la carretilla de transporte original. Numerosos accesorios completan este equipo en venta (ver listado).
 * El equipo se halla en perfecto estado, prácticamente como nuevo gracias a un cuidado y mantenimiento riguroso y un uso limitado.
-* Seguimiento y GoTo de alta precisión con [ServoCAT Track y ArgoNavis DTC](buscadores-GOTO.md) instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía. Ver imágenes aquí.
+* Seguimiento y GoTo de alta precisión con [ServoCAT Track y ArgoNavis DTC](buscadores-goto.md) instalados previamente en la fábrica. Conexión con programas planetarios en PC. Es el sistema más completo y potente del mercado para este tipo de telescopios. Permite astrofotografía. Ver imágenes aquí.
 
 * Medidas importantes:
   * Altura del ocular cuando el telescopio apunta al zenit: 167 cm.

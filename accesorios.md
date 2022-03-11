@@ -1,9 +1,6 @@
 
 ## Otros Accesorios
 
-Caja conexiones:
-
-<img src="IMG/caja conexiones.jpg" width=800 align=center>
 
 Contrapeso y ventilador:
 

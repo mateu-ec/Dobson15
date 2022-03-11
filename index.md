@@ -69,7 +69,7 @@ layout: spec
 ### Conjunto de colimadores: 
   * Catseye 
   * Howie Glatter 
-  * ver detalles [aquí](colimadores.md)
+  * ver detalles [aquí](colimacion.md)
   
 ### Buscadores incluidos:
    * [Telrad clásico](https://www.astroshop.es/visor-de-punto-rojo-y-de-proyeccion/telrad-buscador-de-proyeccion-de-con-base/p,5974)

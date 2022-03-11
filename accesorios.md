@@ -13,10 +13,6 @@ DewBuster:
 
 <img src="IMG/DewBuster.jpg" width=800 align=center>
 
-Enfocador:
-
-<img src="IMG/enfocador.jpg" width=800 align=center>
-
 Porta-filtros con calentadores:
 
 <img src="IMG/porta-filtros con calentadores.jpg" width=800 align=center>

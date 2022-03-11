@@ -4,7 +4,7 @@ layout: spec
 
 # Venta Telescopio Dobson: Obsession 15” f/4,5 Classic
 
-* Precio global del telescopio con todos los accesorio según listado a continuación (no incluye gastos de transporte ni seguro): 5.400€
+* Precio global del telescopio con todos los accesorios según listado a continuación (no incluye gastos de transporte ni seguro): 5.400€
 * El telescopio está en la isla de Mallorca y disponible para su examen
 * Interesados contactar con Mateu: 659 460 730
 <img src="IMG/General.jpg" width=800 align=center>
@@ -94,4 +94,4 @@ layout: spec
 * [Buscadores y Sistema GOTO](buscadores-goto.md)
 * [Colimadores](colimacion.md)
 * [Accesorios](accesorios.md)
-* [Conjunto carrteilla-mesa](carretilla.md)
+* [Conjunto carretilla-mesa](carretilla.md)

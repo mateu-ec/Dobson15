@@ -94,4 +94,4 @@ layout: spec
 * [Buscadores y Sistema GOTO](buscadores-goto.md)
 * [Colimadores](colimacion.md)
 * [Accesorios](accesorios.md)
-* [Otras imágenes](otras-imágenes.md)
+* [Conjunto carrteilla-mesa](carretilla.md)

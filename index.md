@@ -64,7 +64,7 @@ layout: spec
   
 ### Enfocador:
   * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
-  * ve imagen aquí
+  * ve imagen [aquí](enfocador.md)
 
 ### Conjunto de colimadores: 
   * Catseye 

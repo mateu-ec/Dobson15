@@ -67,8 +67,8 @@ layout: spec
   * ve imagen [aquí](enfocador.md)
 
 ### Conjunto de colimadores: 
-  * Catseye 
-  * Howie Glatter 
+  * [Catseye](https://www.catseyecollimation.com/). Triple Pack 
+  * [Howie Glatter](https://www.astroshop.es/varios/howie-glatter-tublug-1-25-/p,21637) 
   * ver detalles [aquí](colimacion.md)
   
 ### Buscadores incluidos:

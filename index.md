@@ -60,7 +60,7 @@ layout: spec
   * Columna de soporte DSC Stalk para los controlodares de Go-To, de [Markless Astronomics](https://www.marklessastronomics.com/dsc%20stalk%20products.html#dscstalk)
   * Bandeja frontal para accesorios y contrapeso en caso necesario (59x30 cm). 
   * Caja de conexiones eléctricas en el balancín (parte inferior).
-  * ver imágenes aquí 
+  * ver imágenes [aquí](carretilla.md) 
   
 ### Enfocador:
   * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.

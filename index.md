@@ -90,7 +90,7 @@ layout: spec
   
 ## Fotos de Detalle
 
-* [Espejos y otros accesorios](espejos-otros-accesorios.md)
+* [Espejos y otros accesorios](espejos.md)
 * [Buscadores y Sistema GOTO](buscadores-goto.md)
 * [Colimadores](colimacion.md)
 * [Otras imágenes](otras-imágenes.md)

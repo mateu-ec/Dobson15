@@ -7,6 +7,10 @@ Caretilla y luces rojas:
 
 <img src="IMG/Carretilla y luces rojas.jpg" width=800 align=center>
 
+Caja conexiones:
+
+<img src="IMG/caja conexiones.jpg" width=800 align=center>
+
 Conexiones Elécticas:
 
 <img src="IMG/conexiones eléctricas.jpg" width=800 align=center>

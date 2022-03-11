@@ -7,7 +7,7 @@ layout: spec
 * Precio global del telescopio con todos los accesorios según listado a continuación (no incluye gastos de transporte ni seguro): 5.400€
 * El telescopio está en la isla de Mallorca y disponible para su examen
 * Interesados contactar con Mateu: 659 460 730
-<img src="IMG/general.jpg" width=800 align=center>
+<img src="IMG/General.jpg" width=800 align=center>
 
 <img src="IMG/Matrícula Obsession.jpg" width=700 align=center>
 

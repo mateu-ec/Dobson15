@@ -86,7 +86,7 @@ layout: spec
   * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
   * Varios cables de conexión eléctrica
   * Manuales de usuario de los equipos
-  * Ver imágenes de otros accesorios
+  * Ver imágenes de otros [accesorios](accesorios.md)
   
 ## Fotos de Detalle
 

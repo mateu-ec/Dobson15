@@ -18,3 +18,7 @@ Servo de altitud:
 ServoCat:
 
 <img src="IMG/ServoCat.jpg" width=800 align=center>
+
+Controlador inalámbrico
+
+<img src="IMG/controlador inalámbrico.jpg" width=400 align=center>

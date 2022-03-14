@@ -1,7 +1,7 @@
 # Conjunto carretilla-mesita
 Mesita con protector:
 
-<img src="IMG/Mesita con protector.jpg" width=800 align=center>
+<img src="IMG/Mesita.jpg" width=800 align=center>
 
 Caretilla y luces rojas:
 

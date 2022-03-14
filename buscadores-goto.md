@@ -1,21 +1,7 @@
-# Buscadores y GOTO
-
-## Buscadores
-
-
-
-
-
-Buscador Antares:
-
-<img src="IMG/Buscador Antares.jpg" width=800 align=center>
 
 
 ## Sistema GOTO
 
-Base DSC Stalk:
-
-<img src="IMG/Base DSC Stalk.jpg" width=800 align=center>
 
 Controles ArgoNavis y ServoCat:
 

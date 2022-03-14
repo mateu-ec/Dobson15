@@ -67,8 +67,8 @@ layout: spec
   * ve imagen [aquí](enfocador.md)
 
 ### Conjunto de colimadores: 
-  * [Catseye](https://www.catseyecollimation.com/). Triple Pack 
-  * [Howie Glatter](https://www.astroshop.es/varios/howie-glatter-tublug-1-25-/p,21637) 
+  * AstroBeam II, de AstroSystems
+  * Hotech SCA lasser collimator
   * ver detalles [aquí](colimacion.md)
   
 ### Buscadores incluidos:

@@ -64,7 +64,7 @@ layout: spec
   
 ### Enfocador:
   * Enfocador Feathertouch, de [Starlight Instruments](https://www.starlightinstruments.com/product/ftf2015bcr-lw-lightweight-feather-touch-rotatable-2-0-focuser-with-1-5-draw-tube-travel-brake-and-compression-ring/). Gran calidad y capacidad. Enfocador rotacional con anillos de compresión, 1,5" de desplazamiento, doble velocidad y freno.
-  * ve imagen [aquí](enfocador.md)
+  * ver imagen [aquí](enfocador.md)
 
 ### Conjunto de colimadores: 
   * AstroBeam II, de AstroSystems
@@ -80,10 +80,10 @@ layout: spec
   * Ventilador a 12 V, incorporado para el espejo primario. Original
   * Caja de conexiones [DewBuster](https://www.dewbuster.com/form-order-db.html) para cintas deshumificadoras en la parte alta del telescopio. Cintas no incluídas.
   * Deshumificador instalado en el secundario [Dew Guard](https://www.astrosystems.biz/dewgrd.htm) de AstroSystems, con sensor de temperatura, LED y conexiones para deshumificador. Original de fábrica.
-  * Araña (https://www.astrosystems.biz/spiders.htm) y soporte de secundario (https://www.astrosystems.biz/sechold.htm) de AstroSystems Inc. Original.
+  * Araña <https://www.astrosystems.biz/spiders.htm> y soporte de secundario <https://www.astrosystems.biz/sechold.htm> de AstroSystems Inc. Original.
   * Sistema deslizante de soporte de filtros, con cinta calefactora y caja de transporte/almacenamiento (de <https://www.astrocrumb.com>). No incluye los filtros.
   * Funda negra de Ripstop Nylon para el andamio intermedio del telescopio
-  * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems (https://www.astrosystems.biz/covers.htm). Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
+  * Fundas blancas de alta protección para los componentes del telescopio, de AstroSystems <https://www.astrosystems.biz/covers.htm>. Nylon 400 denier, con silicona repelente al agua y revestimiento de poliuretano en la parte interior.
   * Varios cables de conexión eléctrica
   * Manuales de usuario de los equipos
   * Ver imágenes de otros [accesorios](accesorios.md)
